@@ -17,7 +17,8 @@ Below are some notes to help you report issues/bugs or improvement suggestions.
 * If does not exist, then create a new issue. 
 
 ### New issue should contain:
-* Firmware version where issue was found, name the topic to describe the bug as the best as possible 
+* transmitter being used and OpenTX version 
+* Firmware version (including LBT or FCC) where issue was found, name the topic to describe the bug as the best as possible 
 * Description of the issue 
 * Description of the expected behavior
 * Description how to reproduce the bug
